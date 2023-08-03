@@ -31,23 +31,23 @@ body {
   opacity: 0.8;
 }
 
-.red {
-  background-color: red;
+.pink{
+  background-color: pink;
 }
 
-.green {
-  background-color: green;
+.violet{
+  background-color: violet;
 }
 
-.blue {
-  background-color: blue;
+.white{
+  background-color: white;
 }
 
-.yellow {
-  background-color: yellow;
+.cyan {
+  background-color: cyan;
 }
 
 .pressed {
-  box-shadow: 0 0 20px white;
+  box-shadow: 0 0 20px black;
   background-color: grey;
 }
